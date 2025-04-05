@@ -6,11 +6,11 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/rahulram497/bookings/pkg/render"
+	"github.com/rahulram497/bookings/internal/render"
 
-	"github.com/rahulram497/bookings/pkg/handlers"
+	"github.com/rahulram497/bookings/internal/handlers"
 
-	"github.com/rahulram497/bookings/pkg/config"
+	"github.com/rahulram497/bookings/internal/config"
 
 	"github.com/alexedwards/scs/v2"
 )
