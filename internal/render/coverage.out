@@ -1,0 +1,25 @@
+mode: set
+github.com/rahulram497/bookings/internal/render/render.go:21.40,23.2 1 1
+github.com/rahulram497/bookings/internal/render/render.go:25.84,31.2 5 1
+github.com/rahulram497/bookings/internal/render/render.go:34.105,36.18 2 1
+github.com/rahulram497/bookings/internal/render/render.go:36.18,39.3 1 0
+github.com/rahulram497/bookings/internal/render/render.go:39.8,41.3 1 1
+github.com/rahulram497/bookings/internal/render/render.go:44.2,45.9 2 1
+github.com/rahulram497/bookings/internal/render/render.go:45.9,47.3 1 1
+github.com/rahulram497/bookings/internal/render/render.go:49.2,54.16 4 1
+github.com/rahulram497/bookings/internal/render/render.go:54.16,57.3 2 0
+github.com/rahulram497/bookings/internal/render/render.go:60.2,61.16 2 1
+github.com/rahulram497/bookings/internal/render/render.go:61.16,64.3 2 0
+github.com/rahulram497/bookings/internal/render/render.go:65.2,65.12 1 1
+github.com/rahulram497/bookings/internal/render/render.go:68.67,73.16 3 1
+github.com/rahulram497/bookings/internal/render/render.go:73.16,75.3 1 0
+github.com/rahulram497/bookings/internal/render/render.go:78.2,78.29 1 1
+github.com/rahulram497/bookings/internal/render/render.go:78.29,81.17 3 1
+github.com/rahulram497/bookings/internal/render/render.go:81.17,83.4 1 0
+github.com/rahulram497/bookings/internal/render/render.go:85.3,86.17 2 1
+github.com/rahulram497/bookings/internal/render/render.go:86.17,88.4 1 0
+github.com/rahulram497/bookings/internal/render/render.go:90.3,90.23 1 1
+github.com/rahulram497/bookings/internal/render/render.go:90.23,92.18 2 1
+github.com/rahulram497/bookings/internal/render/render.go:92.18,94.5 1 0
+github.com/rahulram497/bookings/internal/render/render.go:97.3,97.21 1 1
+github.com/rahulram497/bookings/internal/render/render.go:100.2,100.21 1 1
